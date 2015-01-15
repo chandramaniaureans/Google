@@ -1,9 +1,9 @@
 {
-    "name": "google/api-client",
+    "name": "clowdy/google-api-client",
     "type": "library",
-    "description": "PHP Client for Google APIs",
+    "description": "Temp Backup of https://github.com/Block8/Google-API.git - PHP Client for Google APIs",
     "keywords": ["php", "google", "api", "client", "analytics", "plus", "adwords", "adsense", "compute", "chrome", "youtube", "drive", "search"],
-    "homepage": "https://github.com/block8/google-api",
+    "homepage": "https://github.com/clowdy/google-api",
     "license": "Apache-2.0",
     "authors": [
         {
